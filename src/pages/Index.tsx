@@ -20,21 +20,21 @@ const Index = () => {
     }, []);
 
     return (
-        <div className= "relative min-h-screen" >
-        <CustomCursor />
-        < AnimatedBackground />
-        <Navbar />
-        < main >
-        <HeroSection />
-        < AboutSection />
-        <SkillsSection />
-        < ExperienceSection />
-        <ProjectsSection />
-        < ContactSection />
-        </main>
-        < Footer />
+        <div className="relative min-h-screen">
+            <CustomCursor />
+            <AnimatedBackground />
+            <Navbar />
+            <main>
+                <HeroSection />
+                <AboutSection />
+                <SkillsSection />
+                <ExperienceSection />
+                <ProjectsSection />
+                <ContactSection />
+            </main>
+            <Footer />
         </div>
-  );
+    );
 };
 
 export default Index;
