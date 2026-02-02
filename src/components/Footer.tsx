@@ -24,7 +24,7 @@ const Footer = () => {
                         viewport={{ once: true }}
                         transition={{ delay: 0.1 }}
                     >
-                        Designed with by Joy Justin J
+                        Designed  by Joy Justin J
                     </motion.p>
 
 
