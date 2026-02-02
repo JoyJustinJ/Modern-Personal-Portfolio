@@ -24,7 +24,7 @@ const Footer = () => {
                         viewport={{ once: true }}
                         transition={{ delay: 0.1 }}
                     >
-                        Designed with <Heart className="w-4 h-4 text-primary fill-primary" /> by Joy Justin
+                        Designed with by Joy Justin J
                     </motion.p>
 
 
